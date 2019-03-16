@@ -1,0 +1,29 @@
+## Windows软件列表
+
+- windows插件
+  - 剪切版工具：Ditto
+  - 截图工具：Snipaste
+  - 快速预览：QuickLook
+  - 状态栏透明：TranslucentTB
+- windows工具
+  - 文件搜索：Everything
+  - 快速启动：Wox
+  - MD编辑器Typora
+  - 导图：Xmind ZEN
+  - PDF阅读器：SumatraPDF
+  - Windows管理：Dism++、SpaceSniffer
+  - 素材搜集：Eagle
+  - 本地音乐播放器：foobar2000
+  - 视频播放器：mpv
+  - 电子书：calibre
+  - 词典：Lingoes
+  - Cmd替代品：Cmder
+  - 笔记：cherrytree
+  - SSH工具：putty
+  - SQL客户端：HeidiSQL
+  - 虚拟机：VirtualBox
+  - 输入法：Rime
+- Code
+  - Java开发：IntelliJ IDEA社区版、Eclipse
+  - Python开发：VSCode
+  - Rust开发：VSCode
